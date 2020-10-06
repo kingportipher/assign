@@ -4,16 +4,20 @@ import './App.css';
 import FirstComponent from './FirstComponent'
 import Header from './Header'
 import NavBar from './NavBar'
+import NewPage from './NewPage'
 
 
 function App (){
+
+
   return(
-    <div>
+    <body >
     <FirstComponent/>
     <Header/>
-       <p>Hello World</p>
-       <p><NavBar/></p>
-    </div>
+    <hr/>
+    <p>Hello World</p>
+    <p><NavBar/></p>
+    </body>
 
   );
 }
