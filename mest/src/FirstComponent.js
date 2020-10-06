@@ -8,5 +8,4 @@ function FirstComponent (){
     </>
   );
 }
-
 export default FirstComponent;
