@@ -6,6 +6,8 @@ import Header from './Header'
 import NavBar from './NavBar'
 import NewPage from './NewPage'
 
+import * as serviceWorker from './serviceWorker';
+
 
 function App (){
 
