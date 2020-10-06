@@ -3,7 +3,7 @@ import logo from './logo.svg';
 import './App.css';
 import FirstComponent from './FirstComponent'
 import Header from './Header'
-
+import NavBar from './NavBar'
 
 
 function App (){
@@ -12,7 +12,7 @@ function App (){
     <FirstComponent/>
     <Header/>
        <p>Hello World</p>
-
+       <p><NavBar/></p>
     </div>
 
   );
